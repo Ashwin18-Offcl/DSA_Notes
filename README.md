@@ -2,7 +2,7 @@
 <!-- ================== DAX NOTES REPOSITORY README ================== -->
 
 <p align="center">
-  <img src="https://github.com/Ashwin18-Offcl/DAX/blob/main/DAX%20Mode.png"
+  <img src="https://github.com/Ashwin18-Offcl/DSA_Notes/blob/main/DSA%20Notes%20Thumbnail.png"
        width="820"
        alt="DAX Notes Banner"/>
 </p>
