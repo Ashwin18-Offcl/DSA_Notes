@@ -65,13 +65,6 @@ used in <b>Power BI, Excel Power Pivot, and SSAS</b>.
 
 <p align="center">
 
-<!-- Languages Count -->
-<img src="https://img.shields.io/github/languages/count/Ashwin18-Offcl/DAX?style=flat-square&label=Languages" />
-
-<!-- Repo Size -->
-<img src="https://img.shields.io/github/repo-size/Ashwin18-Offcl/DAX?style=flat-square&label=Repo%20Size" />
-
-</p>
 
 ---
 
